@@ -18,8 +18,8 @@ Develop a web-based prototype that converts spoken input into text, provides a l
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/vite-project.git
-   cd vite-project
+   git clone https://github.com/waqarali5498/Real-Time-Multilingual-Healthcare-Translator.git
+   cd Real-Time-Multilingual-Healthcare-Translator
    ```
 
 2. Install dependencies:
